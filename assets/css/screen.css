@@ -97,6 +97,7 @@ body {
 
 
 @media screen and (max-width: 480px) {
+	#site-head-content { text-align: center; }
 	.blog-description { font-size: 24px; }
 	.post-hover { padding: 5px; }
 	.post-title { font-size: 24px; }
