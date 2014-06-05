@@ -5,6 +5,11 @@ body {
 	padding-bottom: 40px;
 }
 
+a {
+	-webkit-transition: color 0.25s linear;
+	transition: color 0.25s linear;
+}
+
 .l-uppercase { text-transform: uppercase; }
 
 
