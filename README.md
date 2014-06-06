@@ -4,11 +4,9 @@ A clean, simple and responsive [Ghost Theme](http://ghost.org) inspired by the [
 
 <a href="http://viktorsnt.github.io/bold-water-demo/" target="_blank">Demo</a>
 
-Get your copy: [Download](https://github.com/viktorsnt/bold-water/archive/master.zip)
+[Download](https://github.com/viktorsnt/bold-water/archive/master.zip)
 
-***
-
-## Getting Started
+### Getting Started
 
 1. Install <a href="nodejs.org" target="_blank">Node.js</a> - Ghost requires Node v0.10.x
 2. Download the latest Ghost package from <a href="ghost.org/download" target="_blank">Ghost.org</a>
