@@ -16,3 +16,5 @@ A clean, simple and responsive [Ghost Theme](http://ghost.org) inspired by the [
 6. To start Ghost, run `grunt dev`
 7. Visit `http://localhost:2368/admin` in your browser and create an admin account
 8. Go to settings and choose the bold-water theme
+
+If you have any doubts, check out the [Ghost Documentation](http://docs.ghost.org/) for more detailed instructions.
